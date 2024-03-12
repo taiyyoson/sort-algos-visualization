@@ -24,4 +24,8 @@ This graph shows that Bubble Sort took by far the most time to sort increasingly
 This graph shows that selection sort takes the most time to sort nearly sorted arrays. Bubble sort had an inconsistency, indicating that the swaps made to the array were a little strange, allowing it to sort faster.
 
 <img width="1009" alt="Screenshot 2024-03-02 at 1 24 32 PM" src="https://github.com/Veomett/project-1-sorting-nearly-sorted-arrays-taiyyoson/assets/123409233/642bf495-638b-4580-ad5f-0d16122424ff">
-*Faster methods shown by themselves: here Insertion always took at most 1 millisecond, which is insane. 
+*Faster methods shown by themselves: here Insertion always took at most 1 millisecond, which is insane.
+
+
+#### *Graphs made by Google Sheets, R file also generates similar graph with a little more in-depth data analysis
+ 
