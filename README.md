@@ -1,5 +1,4 @@
-## Starter Code for Project 1: Sorting Nearly Sorted Arrays
-Please see the Project description on Coursera for instructions.  
+# Sorting Nearly Sorted Arrays & Visualization
 
 My implementation is simple and efficient, with various methods to help me. Besides the methods given in the starter code, I included sub-methods to help me with certain sorting algorithms. In ArrayMaker.java, I had two methods, each for the different type of array. In SortingTester.java, I wrote a calculateTime method, copyArray method, and writeCSV method. 
 
